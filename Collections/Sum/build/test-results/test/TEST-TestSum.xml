@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSum" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-24T19:41:53" hostname="DESKTOP-QI2HF1S" time="0.072">
+  <properties/>
+  <testcase name="testGetTotalOrderPrice" classname="TestSum" time="0.072"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

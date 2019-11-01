@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSort" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-24T19:18:32" hostname="DESKTOP-QI2HF1S" time="0.099">
+  <properties/>
+  <testcase name="testGetCustomersSortedByNumberOfOrders" classname="TestSort" time="0.099"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

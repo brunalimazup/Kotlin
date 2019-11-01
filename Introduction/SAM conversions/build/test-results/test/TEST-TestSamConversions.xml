@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSamConversions" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-22T14:33:25" hostname="DESKTOP-QI2HF1S" time="0.029">
+  <properties/>
+  <testcase name="testSort" classname="TestSamConversions" time="0.029"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
